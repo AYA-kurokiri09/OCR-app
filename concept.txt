@@ -4,3 +4,9 @@ JavaScript版Tesseractを使う。
 3. PDFファイルの中身をページごとに画像化
 4.1ページ目左上(No.)の数字列だけOCR
 5. OCRした文字列(数字列)をタイトルに持った新規PDFを、任意のフォルダに書き出す
+
+参考
+https://www.ipentec.com/document/javascript-accept-file-using-drag-and-rop
+https://puarts.com/?pid=1481
+https://co.bsnws.net/article/198
+https://qiita.com/amamamaou/items/1b51c834d62c8567fad4
